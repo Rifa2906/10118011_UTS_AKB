@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Akb_10118011_UTS</string>
+    <string name="React">
+        React adalah library Javascript terpopuler untuk membuat
+        user interface (UI). Tool ini menawarkan respons cepat untuk
+        user input dengan menggunakan metode baru dalam proses rendering website.
+    </string>
+
+    <string name="Flutter">
+        Flutter sendiri merupakan Software Development Kit (SDK) yang bisa membantu
+        developer dalam membuat aplikasi mobile cross platform.Ada banyak aplikasi dari
+        brand terkenal yang dibuat dengan Flutter. Sebut saja Alibaba, ebay, hingga Google Ads.
+    </string>
+
+    <string name="Nexjs">
+       Next.js merupakan salah satu framework node.js yang cukup populer yang memungkinkan SSR
+        dengan lebih mudah, dan tentunya dengan fitur2 menakjubkan lainnya.
+    </string>
+
+    <string name="about">
+       Aplikasi ini berisi profile saya dan ada fitur aktifitas harian,dan di aplikasi ini saya mencantumkan
+        info tentang bahasa pemrograman yang ada di walkthrougt
+    </string>
+</resources>
+
